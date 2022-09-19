@@ -1,7 +1,5 @@
-# cloud-parking
+# Mergulho Spring Rest
 
-Realizando Deploy na Nuvem de um conjunto de API’s desenvolvida em Spring Boot
-
-Orientador: [Sandro Giacomozzi](https://github.com/sandrogiacom).
+Orientador: Thiago Faria
 
 Anna Paula Marques 😊
